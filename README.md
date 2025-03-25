@@ -1,10 +1,10 @@
-# INT203 Project #2: GeegieAndFriends's Vuesic Player
+# Vuesic Player
 ## Group: _GeegieAndFriends_
 
 ### LINK VDO
 https://drive.google.com/file/d/1b2WtoWcEK03dNxZ2fo_2FZnMaLMOJuzm/view?usp=sharing
 
-Our team including:
+Our team includes:
 
 | Student ID  | Name                     | Email                      | Github Username | Contributions (%) |
 |-------------|--------------------------|----------------------------|-----------------|-------------------|
@@ -16,17 +16,17 @@ Our team including:
 
 ## Contributions
 - design search page (NewBww, pphtw)
-- design playlist page / overlay (NewBww)
+- design playlist page/overlay (NewBww)
 - component destructuring (NewBww, pphtw, PhuMiZz, Banlearit)
 - repeat/ non-repeat queue (NewBww, pphtw, PhuMiZz, Banlearit)
 - state management (PhuMiZz, pphtw, NewBww, Banleari)
-- search feature (pphtw)
+- Search feature (pphtw)
 - router (PhuMiZz, NewBww, Banlearit)
-- add, delete, update playlist (PhuMiZz, pphtw, NewBww, Banlearit)
+- add, delete, and update playlist (PhuMiZz, pphtw, NewBww, Banlearit)
 - fetch API (PhuMiZz, pphtw, NewBww, Banlearit)
 - like playlist (NewBww)
 - like track playlist (PhuMiZz, NewBww)
-- login / register (Banlearit, pphtw, NewBww)
+- login/register (Banlearit, pphtw, NewBww)
 
 let's see our [project diagram](https://www.figma.com/file/dDtTS5QqIBKJpVSpNJ7xoc/Project-Board?node-id=0%3A1&t=OczlRe7O1ZBPnBGJ-1)
 
@@ -48,7 +48,7 @@ Due to contributors in group listen to a variety genre of music. So, we interest
   - Shuffle-able Queue
   - Draggable Progress Bar
 - Playlist
-  - Choose Any Track From Playlist
+  - Choose Any Track From the playlist
   - Add tracks to favorites
   
 #### :sparkles: New :sparkles:
@@ -127,13 +127,13 @@ yarn preview
 ![Available playlist to choose](docs/img/pinned-playlists.png "Playlists")
 
 ![List of tracks in playlist](docs/img/playlist-tracks.png "Playlist Tracks")
-- You can change tracks in playlist by click playlist that you want
-- Add track to favourites by clicking on the heart icon
+- You can change tracks in a playlist by clicking playlist that you want
+- Add track to favorites by clicking on the heart icon
 
 ### Search
 ![Search all](docs/img/searchpage-all.png "Search All")
-- You can search track and playlist by name and keywords
-- You can select filter to search only playlists or songs
+- You can search tracks and playlists by name and keywords
+- You can select a filter to search only playlists or songs
 
 ![Search playlists](docs/img/searchpage-playlists.png "Search playlists")
 
@@ -145,19 +145,19 @@ yarn preview
 
 ![Loggedin playlists Page](docs/img/playlistpage-loggedin.png "playlist page when loggedin")
 
-- you can view tracks in playlist
+- you can view tracks in the playlist
 
 ![playlist overlay](docs/img/playlist-overlay.png "playlist page when loggedin")
 
-- create playlist by click add playlist
+- create a playlist by clicking Add playlist
 
 ![create playlist overlay](docs/img/playlist-create.png "playlist overlay create")
 
-- update playlist by click meatballs menu button
+- update the playlist by clicking the meatballs menu button
 
 ![update playlist overlay](docs/img/playlist-update.png "playlist overlay update")
 
-- delete playlist by click bin icon but you can delete playlist that created by you
+- delete the playlist by clicking the bin icon but you can delete the playlist created by you
 
 ![delete playlist overlay](docs/img/playlist-delete.png "playlist overlay delete")
 
